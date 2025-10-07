@@ -15,3 +15,9 @@ It showcases my projects, skills, and contact information.
 - HTML5  
 - CSS3  
 
+## 👩‍💻 Author
+**Amruta Suryawanshi**  
+📧 Email: amrutasuryawanshi78@gmail.com
+🌐 Portfolio: [https://amrutasuryavanshi78-create.github.io/portfolio](https://amrutasuryavanshi78-create.github.io/portfolio)  
+
+
